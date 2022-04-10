@@ -9,3 +9,5 @@ Q3 --> part a,b & c done in one script Q3abc.sh
 Q4 --> done as given in Q4.sh
 
 Q5 --> done in three parts Q5a.sh Q5b.sh Q5c.sh
+
+https://github.com/YashK2003/Assignment-1

@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i '/^[[:space:]]*$/d' quotes.txt
+sed -r '/^[[:space:]]*$/d' quotes.txt
